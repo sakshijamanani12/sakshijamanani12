@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sakshi Jamanani</h1>
-<h3 align="center">SDET II | QA Automation Engineer</h3>
+<h3 align="center">SDET II @ o9 Solutions | Automation Testing & AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshijamanani-692480196">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://sakshijamanani.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://github.com/sakshijamanani12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   <a href="mailto:sakshijamanani12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://sakshijamanani.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
@@ -19,6 +22,7 @@
 
 - 🚀 Currently working as an **SDET 2** at **o9 Solutions**, Bangalore.
 - 💼 Previously worked as a **Senior Software Engineer** at **Capgemini**.
+- 🏆 Recognized with a **Spot Award** and **2x Milestone Awards** at o9 Solutions for innovative solutions improving app efficiency.
 - 🧠 Passionate about leveraging **Generative AI** and prompt engineering to accelerate test automation workflows and improve software quality.
 - 🛠️ Actively exploring and building **Self-Healing UI Automation Frameworks** using modern tools like Playwright.
 - 🎓 B.E. in Electronics and Communication Engineering from KLS Gogte Institute of Technology.
@@ -46,6 +50,7 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
@@ -57,7 +62,24 @@
 #### 🤖 AI-Powered Test Case Generator
 - Built an AI-assisted solution leveraging **Generative AI and prompt engineering** to automatically generate structured functional test cases directly from user stories and business requirements.
 - Enhanced test quality by automatically generating edge-case, negative, and boundary-condition scenarios, reducing manual test design effort by 30%.
+- 🔗 [View Repo](https://github.com/sakshijamanani12/AI-TestCase-Generator)
 
-#### 🔄 Self-Healing UI Automation Framework
+#### 🔄 Self-Healing UI Automation Framework *(Ongoing)*
 - Developed a prototype automation framework using **Playwright** and **Java** that dynamically adapts to UI locator changes.
 - Improved automation suite stability by minimizing failures caused by frequently changing frontend elements, improving long-term maintainability of regression suites.
+- 🔗 [View Repo](https://github.com/sakshijamanani12/self-healing-ui-automation)
+
+#### 🎭 Playwright + Java UI Automation Framework
+- Built an end-to-end UI automation framework using **Playwright**, **Java**, and **JUnit 5**, structured around the **Page Object Model** for cleaner, more maintainable tests.
+- Used [SauceDemo](https://www.saucedemo.com/) as a live target to validate the framework's design and automation patterns.
+- 🔗 [View Repo](https://github.com/sakshijamanani12/playwright-java-saucedemo)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sakshijamanani12&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshijamanani12&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
