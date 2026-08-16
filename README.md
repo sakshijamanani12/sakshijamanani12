@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Jamanani</h1>
-<h3 align="center">SDET II @ o9 Solutions | Automation Testing & AI Enthusiast</h3>
+<h3 align="center">SDET II | QA Automation Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshijamanani-692480196">
@@ -7,6 +7,9 @@
   </a>
   <a href="mailto:sakshijamanani12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://sakshijamanani.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
@@ -58,13 +61,3 @@
 #### 🔄 Self-Healing UI Automation Framework
 - Developed a prototype automation framework using **Playwright** and **Java** that dynamically adapts to UI locator changes.
 - Improved automation suite stability by minimizing failures caused by frequently changing frontend elements, improving long-term maintainability of regression suites.
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
-<!-- 💡 Note: Replace 'YOUR_GITHUB_USERNAME' in the image URLs above with your actual GitHub username to activate the dynamic stats cards! -->
